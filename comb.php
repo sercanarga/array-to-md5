@@ -1,7 +1,5 @@
 ﻿<?php
 
-//Git test
-
 ini_set('memory_limit', '1G');
 
 function kombinasyon($elemanlar, $sonuclar = '') {
